@@ -1,0 +1,27 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Пирог с яблоком и корицей"
+      },
+      "color": "positive"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Пирог с маком"
+      },
+      "color": "positive"
+    }],
+	[
+      {
+      "action": {
+        "type": "text",
+        "label": "Выйти в главное меню"
+      },
+      "color": "default"
+    }]
+  ]
+}

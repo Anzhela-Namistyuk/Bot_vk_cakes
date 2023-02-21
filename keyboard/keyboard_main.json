@@ -1,0 +1,37 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+    {
+      "action": {
+        "type": "text",
+        "label": "Сладкие пироги"
+      },
+      "color": "default"
+    }],
+	[
+      {
+      "action": {
+        "type": "text",
+        "label": "Овощные пироги"
+      },
+      "color": "default"
+    }],
+    [
+    {
+      "action": {
+        "type": "text",
+        "label": "Мясные пироги"
+      },
+      "color": "default"
+    }],
+    [
+    {
+      "action": {
+        "type": "text",
+        "label": "Рыбные пироги"
+      },
+      "color": "default"
+    }]
+  ]
+}
